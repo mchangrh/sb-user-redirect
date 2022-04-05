@@ -1,0 +1,11 @@
+name = "user"
+type = "javascript"
+account_id = "d5ccf1d783709bbdc23fc29786f38736"
+workers_dev = true
+kv_namespaces = [
+  { binding = "VANITY_URL", id="b86f620f2daf44f1ba87310cd8d21d0a" },
+]
+compatibility_date = "2022-04-05"
+
+[upload]
+format = "service-worker"
